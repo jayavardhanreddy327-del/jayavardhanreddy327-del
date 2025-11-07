@@ -1,4 +1,5 @@
-<!-- Profile Header -->
+<img width="1536" height="1024" alt="ChatGPT Image Nov 7, 2025, 10_14_25 AM" src="https://github.com/user-attachments/assets/566b1729-ae98-42e2-a474-4b8d4dddef02" />
+
 <h1 align="center">👋 Hi there, I'm <b>Jayavardhan Reddy</b></h1>
 <h3 align="center">🚀 Software Engineer | Java Full Stack Developer | Cloud & DevOps Enthusiast</h3>
 
